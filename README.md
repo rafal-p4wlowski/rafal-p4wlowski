@@ -1,11 +1,22 @@
-# 👋 Cześć! 
+# 👋 Hi there! 
 
-Jestem studentem Informatyki na Politechnice Częstochowskiej, specjalizującym się w programowaniu aplikacji internetowych. 
+I'm a computer science student at the Częstochowa University of Technology, specializing in web application development.
 
-📚 Stale rozwijam swoje umiejętności, ucząc się nowych technologii i najlepszych praktyk w IT. 
-🚀 Poszukuję możliwości rozwoju zawodowego, aby zdobywać cenne doświadczenie w branży IT. 
+📚 I continually develop my skills by learning new technologies and best practices in IT. 
+🚀 I am looking for career development opportunities to gain valuable experience in the IT industry.
 
-## 🔧 Technologie, z którymi pracuję:
-- HTML, CSS, JavaScript
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafal.p4wlowski/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafal-p4wlowski/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rafal.p4wlowski@gmail.com)
 
-📫 Jeśli chcesz się ze mną skontaktować, zapraszam do wiadomości!
+## 📊 GitHub Stats:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafal-p4wlowski&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rafal-p4wlowski&theme=nightowl&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafal-p4wlowski&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=rafal-p4wlowski&icon=0&color=0)](https://visitcount.itsvg.in)
+
+📫 If you want to get in touch, feel free to message me!
